@@ -49,11 +49,17 @@ I love fantasy baseball and FanGraphs is an incredible source of MLB data, so I 
 
 Fantasy football has also been growing on me. This series aims as a way to get R users started in NFL data acquisition, manipulation, and exploration. SQL is also used.
 
-# Misc.
+# Dashboards & Presentations
 
 ## [COVID-19 Loans](https://github.com/atamalu/covid_loans)
 
 I found some data on COVID-19 grants & loans that were gathered through SEC filings, so I decided to explore and visualize this data to answer some questions I've been having. Some of the results so far are surprising - especially how much money 5 airlines were given in grants relative to over 10,000 other companies. 
+
+## [Market Research Scenario](https://atamalu.github.io/marketing-scenario-project)
+
+I stumbled upon a market research scenario prompt that looked like a good way to work on presenting information using different style markdowns. The study design would likely be changed a few times along the way, but this seems like a decent framework for showing knowledge of research design for job applications and the like.
+
+# Misc
 
 ## [CV Extra](https://github.com/atamalu/CV-Extra)
 
