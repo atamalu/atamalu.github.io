@@ -1,6 +1,6 @@
 # Project Directory
 
-These are some projects that I have done independently or for consultant work. This page aims to summarize previous projects and link to them to show some of my skillsets in statistics and data science. Everything here was written in R unless indicated otherwise.
+These are some projects that I have done independently or for consulting work. This page aims to summarize previous projects and link to them to show some of my skillsets in statistics and data science. Everything here was written in R unless indicated otherwise.
 
 # Statistics
 
@@ -28,6 +28,15 @@ This free online book is a continuously updated source of tutorials and backgrou
 ## [COVID-19 Loans](https://github.com/atamalu/covid_loans)
 
 I found some data on COVID-19 grants & loans that were gathered through SEC filings, so I decided to explore and visualize this data to answer some questions I've been having. Some of the results so far are surprising - especially how much money 5 airlines were given in grants relative to over 10,000 other companies. 
+
+## [NBA 2021 Team Dashboard](https://atamalu.shinyapps.io/NBA_Team_Season_Dashboard/)
+
+[basketball-reference.com](https://www.basketball-reference.com/) has an incredible database of NBA results for both the current and previous seasons. So, I made a Shiny app that is essentially an interactive graph displaying team totals for the 2021 season.
+
+Features:
+  * Examine individual team trends in points, assists, rebounds, and much more
+  * Compare team's statistics with opponent's
+  * Enable and disable trend lines for team or opponent with one click
 
 ## [Market Research Scenario](https://atamalu.github.io/marketing-scenario-project)
 
